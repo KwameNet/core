@@ -985,6 +985,12 @@
       "config_flow": false,
       "iot_class": "cloud_polling"
     },
+    "deepx": {
+      "name": "deepx",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "delijn": {
       "name": "De Lijn",
       "integration_type": "hub",
